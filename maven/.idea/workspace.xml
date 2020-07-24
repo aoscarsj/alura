@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f4cffcb6-55f6-4be0-858e-209f9a175312" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/apache-maven-3.6.3-bin.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/apache-maven-3.6.3/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/apache-maven-3.6.3/NOTICE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/apache-maven-3.6.3/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/apache-maven-3.6.3/bin/m2.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/apache-maven-3.6.3/bin/mvn" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/apache-maven-3.6.3/bin/mvn.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/apache-maven-3.6.3/bin/mvnDebug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/apache-maven-3.6.3/bin/mvnDebug.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/apache-maven-3.6.3/bin/mvnyjp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/apache-maven-3.6.3/boot/plexus-classworlds-2.6.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/apache-maven-3.6.3/boot/plexus-classworlds.license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/apache-maven-3.6.3/conf/logging/simplelogger.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/apache-maven-3.6.3/conf/settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/apache-maven-3.6.3/conf/toolchains.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/apache-maven-3.6.3/lib/cdi-api-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/apache-maven-3.6.3/lib/cdi-api.license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/apache-maven-3.6.3/lib/commons-cli-1.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/apache-maven-3.6.3/lib/commons-cli.license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/apache-maven-3.6.3/lib/commons-io-2.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/apache-maven-3.6.3/lib/commons-io.license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/apache-maven-3.6.3/lib/commons-lang3-3.8.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/apache-maven-3.6.3/lib/commons-lang3.license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/apache-maven-3.6.3/lib/ext/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/apache-maven-3.6.3/lib/guava-25.1-android.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/apache-maven-3.6.3/lib/guava.license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/apache-maven-3.6.3/lib/guice-4.2.1-no_aop.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/apache-maven-3.6.3/lib/guice.license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/apache-maven-3.6.3/lib/jansi-1.17.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/apache-maven-3.6.3/lib/jansi-native/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/apache-maven-3.6.3/lib/jansi-native/freebsd32/libjansi.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/apache-maven-3.6.3/lib/jansi-native/freebsd64/libjansi.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/apache-maven-3.6.3/lib/jansi-native/linux32/libjansi.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/apache-maven-3.6.3/lib/jansi-native/linux64/libjansi.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/apache-maven-3.6.3/lib/jansi-native/osx/libjansi.jnilib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/apache-maven-3.6.3/lib/jansi-native/windows32/jansi.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/apache-maven-3.6.3/lib/jansi-native/windows64/jansi.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/apache-maven-3.6.3/lib/jansi.license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/apache-maven-3.6.3/lib/javax.inject-1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/apache-maven-3.6.3/lib/javax.inject.license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/apache-maven-3.6.3/lib/jcl-over-slf4j-1.7.29.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/apache-maven-3.6.3/lib/jcl-over-slf4j.license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/apache-maven-3.6.3/lib/jsoup-1.12.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/apache-maven-3.6.3/lib/jsoup.license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/apache-maven-3.6.3/lib/jsr250-api-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/apache-maven-3.6.3/lib/jsr250-api.license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/apache-maven-3.6.3/lib/maven-artifact-3.6.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/apache-maven-3.6.3/lib/maven-builder-support-3.6.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/apache-maven-3.6.3/lib/maven-compat-3.6.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/apache-maven-3.6.3/lib/maven-core-3.6.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/apache-maven-3.6.3/lib/maven-embedder-3.6.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/apache-maven-3.6.3/lib/maven-model-3.6.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/apache-maven-3.6.3/lib/maven-model-builder-3.6.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/apache-maven-3.6.3/lib/maven-plugin-api-3.6.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/apache-maven-3.6.3/lib/maven-repository-metadata-3.6.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/apache-maven-3.6.3/lib/maven-resolver-api-1.4.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/apache-maven-3.6.3/lib/maven-resolver-connector-basic-1.4.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/apache-maven-3.6.3/lib/maven-resolver-impl-1.4.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/apache-maven-3.6.3/lib/maven-resolver-provider-3.6.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/apache-maven-3.6.3/lib/maven-resolver-spi-1.4.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/apache-maven-3.6.3/lib/maven-resolver-transport-wagon-1.4.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/apache-maven-3.6.3/lib/maven-resolver-util-1.4.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/apache-maven-3.6.3/lib/maven-settings-3.6.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/apache-maven-3.6.3/lib/maven-settings-builder-3.6.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/apache-maven-3.6.3/lib/maven-shared-utils-3.2.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/apache-maven-3.6.3/lib/maven-slf4j-provider-3.6.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/apache-maven-3.6.3/lib/org.eclipse.sisu.inject-0.3.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/apache-maven-3.6.3/lib/org.eclipse.sisu.inject.license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/apache-maven-3.6.3/lib/org.eclipse.sisu.plexus-0.3.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/apache-maven-3.6.3/lib/org.eclipse.sisu.plexus.license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/apache-maven-3.6.3/lib/plexus-cipher-1.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/apache-maven-3.6.3/lib/plexus-cipher.license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/apache-maven-3.6.3/lib/plexus-component-annotations-2.1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/apache-maven-3.6.3/lib/plexus-component-annotations.license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/apache-maven-3.6.3/lib/plexus-interpolation-1.25.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/apache-maven-3.6.3/lib/plexus-interpolation.license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/apache-maven-3.6.3/lib/plexus-sec-dispatcher-1.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/apache-maven-3.6.3/lib/plexus-sec-dispatcher.license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/apache-maven-3.6.3/lib/plexus-utils-3.2.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/apache-maven-3.6.3/lib/plexus-utils.license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/apache-maven-3.6.3/lib/slf4j-api-1.7.29.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/apache-maven-3.6.3/lib/slf4j-api.license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/apache-maven-3.6.3/lib/wagon-file-3.3.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/apache-maven-3.6.3/lib/wagon-http-3.3.4-shaded.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/apache-maven-3.6.3/lib/wagon-provider-api-3.3.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/produtos/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/produtos/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/produtos/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/produtos/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/produtos/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/produtos/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/produtos/produtos.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/produtos/src/main/java/br/com/alura/maven/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/produtos/src/main/java/br/com/alura/maven/Produto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/produtos/src/test/java/br/com/alura/maven/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/produtos/target/classes/br/com/alura/maven/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/produtos/target/classes/br/com/alura/maven/Produto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/produtos/target/java-basic.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/produtos/target/java-imports.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/produtos/target/java-unusedcode.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/produtos/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/produtos/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/produtos/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/produtos/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/produtos/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/produtos/target/pmd.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/produtos/target/pmd/rulesets/maven-pmd-plugin-default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/produtos/target/produtos-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/produtos/target/site/pmd.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/produtos/target/site/surefire-report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/produtos/target/surefire-reports/TEST-br.com.alura.maven.AppTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/produtos/target/surefire-reports/br.com.alura.maven.AppTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-do-zero/produtos/target/test-classes/br/com/alura/maven/AppTest.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="ProjectId" id="1edGlAJDY1oKki8EoDJdmoXErUU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f4cffcb6-55f6-4be0-858e-209f9a175312" name="Default Changelist" comment="" />
+      <created>1594644204393</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594644204393</updated>
+      <workItem from="1594644207230" duration="15000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2458" y="252" width="424" height="610" key="FileChooserDialogImpl" timestamp="1594644219538">
+      <screen x="1366" y="0" width="2560" height="1080" />
+    </state>
+    <state x="2458" y="252" width="424" height="610" key="FileChooserDialogImpl/1366.0.2560.1080/0.217.1366.768@1366.0.2560.1080" timestamp="1594644219538" />
+    <state x="2260" y="173" width="819" height="768" key="NewModule_or_Project.wizard" timestamp="1594644221068">
+      <screen x="1366" y="0" width="2560" height="1080" />
+    </state>
+    <state x="2260" y="173" width="819" height="768" key="NewModule_or_Project.wizard/1366.0.2560.1080/0.217.1366.768@1366.0.2560.1080" timestamp="1594644221068" />
+  </component>
+</project>
